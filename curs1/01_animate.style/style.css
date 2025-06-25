@@ -1,0 +1,9 @@
+/* elementul sa aiba ambele clase */
+.animate__animated {
+  --animate-duration: 10s;
+}
+
+.animate__animated.animate__rubberBand{
+  --animate-duration: 4s;
+  --animation-delay: 2s;
+}
