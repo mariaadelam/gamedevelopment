@@ -1,0 +1,7 @@
+1. ng --version
+2. ng new memory
+    css - y 
+    no
+3. cd memory 
+4. npm start
+5. ng generate component game sau ng g c game - deschid un alt terminal si unul cu serverul pornit

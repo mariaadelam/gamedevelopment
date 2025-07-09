@@ -24,3 +24,7 @@
   /* 0.3 - alfa transparenta
   1- opac */
 }
+
+#game.over td:hover{
+  background-color: initial
+}
