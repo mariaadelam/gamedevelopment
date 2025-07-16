@@ -1,5 +1,5 @@
 1. ng --version
-2. ng new memory
+2. ng new memory, name of te project - memory
     css - y 
     no
 3. cd memory 
